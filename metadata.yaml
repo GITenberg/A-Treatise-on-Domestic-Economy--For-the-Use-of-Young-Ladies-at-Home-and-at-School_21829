@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2109
     wikipedia: http://en.wikipedia.org/wiki/Catharine_Beecher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21829#A-Treatise-on-Domestic-Economy--For-the-Use-of-Young-Ladies-at-Home-and-at-School
 edition_note: "Revised Edition,\r\nWith Numerous Additions and Illustrative Engravings"
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2007-06-14'
